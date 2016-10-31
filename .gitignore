@@ -1,5 +1,6 @@
 # SMF Generated Files #
 #######################
+c7/settings/*
 Settings.php
 Settings_bak.php
 db_last_error.php
