@@ -2,7 +2,7 @@
 /**
  *
  * A adapter :
- * - Chemins
+ * - Chemins lg 178 - 210 - 216
  * - Params
  * Et poser dans la racine sous le nom Setting.php
  * Sera par défaut ignorer du dépôt git remote
